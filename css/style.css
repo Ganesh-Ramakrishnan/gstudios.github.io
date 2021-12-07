@@ -381,13 +381,11 @@ input[type="checkbox"] {
     line-height: 1em;
 }
 .nav-scroll .logo-wrapper {
-    padding: 20px 70px;
     background: #090909;
 }
 .logo-wrapper {
     float: left;
     background: #101010;
-    padding: 48.5px 60px;
 }
 .logo-wrapper .logo h2 {
     font-weight: 400;
